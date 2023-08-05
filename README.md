@@ -1,0 +1,2 @@
+# Generative_AI_Implementaion_in_Various_Fields
+Implementation of Gen_AI 
